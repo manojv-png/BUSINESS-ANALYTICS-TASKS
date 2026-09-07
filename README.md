@@ -13,11 +13,23 @@ https://public.tableau.com/authoring/RestaurantDataAnalysisDashboard_17855134124
 Task 7:
 ### What I Discovered from the Charts
 
-* Technology has the highest sales, with approximately 827,456
-* Furniture is second, with around 728,659 in sales.
-* Office Supplies has the lowest sales among the three categories, at about 705,422.
-* The scatter plot shows that most customer orders have lower sales values, while only a few orders have very high sales.
-* Technology products appear to have some of the highest individual sales values.
-* Overall, Technology is the best-performing category, while Office Supplies has slightly lower sales.
+1. Technology has the highest sales, with approximately 827,456
+2. Furniture is second, with around 728,659 in sales.
+3. Office Supplies has the lowest sales among the three categories, at about 705,422.
+4. The scatter plot shows that most customer orders have lower sales values, while only a few orders have very high sales.
+5. Technology products appear to have some of the highest individual sales values.
+5. Overall, Technology is the best-performing category, while Office Supplies has slightly lower sales.
+   
+
+task 5:
+### What I Discovered from the Charts
+
+1. Electronics has the highest profit among the three categories.
+2. Accessories also generates a high profit and is close to Electronics.
+3. Office has the lowest profit compared with Electronics and Accessories.
+4. Sales range from around 1.1M to 5.3M, showing a wide variation in sales.
+5. The number of records for Accessories appears fairly similar across the East, North, South, and West regions.
+6. The profit distribution shows that Electronics and Accessories contribute most of the overall profit.
+
 
 
