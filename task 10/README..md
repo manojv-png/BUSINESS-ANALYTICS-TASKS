@@ -2,7 +2,7 @@
 
 ## 📊 Tableau Public Dashboard
 
-🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/task10_17903171947150/Dashboard1#1)
+🔗https://public.tableau.com/views/task10_17903171947150/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🎯 Objective
 
