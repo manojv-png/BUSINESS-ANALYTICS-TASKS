@@ -30,6 +30,15 @@ task 5:
 4. Sales range from around 1.1M to 5.3M, showing a wide variation in sales.
 5. The number of records for Accessories appears fairly similar across the East, North, South, and West regions.
 6. The profit distribution shows that Electronics and Accessories contribute most of the overall profit.
+   
 
-
+task 11: https://public.tableau.com/views/task11_17911789971830/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## What I discovered from the dashboard
+Technology is the most profitable category, with sales of approximately 827,456.
+Furniture is the second-highest category, with sales of around 728,659.
+Office Supplies has the lowest sales among the three categories, at approximately 705,422.
+The Sales by Region chart shows that West has the highest sales at about 710,220, followed by East (669,519), Central (492,647), and South (389,151).
+The Sales Trend shows that sales fluctuate significantly over time, with some periods showing sharp increases and decreases.
+The highest visible sales point is around 350,162, while another strong peak is around 321,480.
+Overall, the dashboard indicates that Technology is the strongest category, while West is the strongest-performing region.
 
